@@ -1,0 +1,15 @@
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/bin/Debug/net8.0/Task_003
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/bin/Debug/net8.0/Task_003.deps.json
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/bin/Debug/net8.0/Task_003.runtimeconfig.json
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/bin/Debug/net8.0/Task_003.dll
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/bin/Debug/net8.0/Task_003.pdb
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.AssemblyInfoInputs.cache
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.AssemblyInfo.cs
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.csproj.CoreCompileInputs.cache
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.sourcelink.json
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.dll
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/refint/Task_003.dll
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.pdb
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/Task_003.genruntimeconfig.cache
+/Users/irinanamdykova/Desktop/GeekBrains/Практика/Семинар 4 ДЗ/Tasks/Task_003/obj/Debug/net8.0/ref/Task_003.dll
